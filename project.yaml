@@ -1,5 +1,5 @@
 basic:
-    name: Kemmer-Gulgowski
+    name: Dare-Daniel
     environments:
         production: 'https://www.mos.org/'
         staging: ''
